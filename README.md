@@ -7,9 +7,9 @@
 - [Contributors](#contributors)
 
 ## Project Description
-The Architectural Pattern used for this project is in [Architectural Pattern](./Architectural%20Pattern)
-The UML Diagrams used for this project is in [UML Diagrams](./UML%20Diagrams)
-The SRS Document used for this project is in [SRS Doc](./SRS%20ExamGenerator.doc)
+The Architectural Pattern used for this project is in [Architectural Pattern](./Architectural%20Pattern) <br />
+The UML Diagrams used for this project is in [UML Diagrams](./UML%20Diagrams) <br />
+The SRS Document used for this project is in [SRS Doc](./SRS%20ExamGenerator.doc) <br />
 The RTM Document used for this project is in [RTM Doc](./RTM.xlsx)
 
 ## IDE
